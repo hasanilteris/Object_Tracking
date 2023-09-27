@@ -1,2 +1,2 @@
-# Simple-Tracking
-## Python ve OpenCV kütüphanesi ile video üzerinden hareketli nesne takibi çalışması
+## Object Tracking
+#### Object tracking application on a loaded video using Python and the OpenCV library.
